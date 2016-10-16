@@ -1,0 +1,30 @@
+{
+  "name": "vuex-create-types",
+  "version": "0.10.0",
+  "description": "Helps you create Vuex action types, safely & easily.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-fun/vuex-create-types.git"
+  },
+  "keywords": [
+    "vuex",
+    "actions",
+    "types"
+  ],
+  "author": "Hejx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alex-fun/vuex-create-types/issues"
+  },
+  "homepage": "https://github.com/Alex-fun/vuex-create-types#readme",
+  "devDependencies": {
+    "ava": "^0.16.0"
+  }
+}
